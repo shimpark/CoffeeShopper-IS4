@@ -5,12 +5,15 @@ NOTE: please check out the different branches based on the 4 stages of this tuto
 
 https://www.youtube.com/watch?v=SXJ377G5bOg
 
-
+======================================
 
 References: https://www.youtube.com/watch?v=SXJ377G5bOg&list=PL1EYnCfHLswwOz77bgfFbFqRnY3bXYHp3&index=1
-			https://www.youtube.com/watch?v=rNqgxAqGZJ8&list=PL1EYnCfHLswwOz77bgfFbFqRnY3bXYHp3&index=2
-			https://github.com/iulianoana/CoffeeShopper-IS4/tree/Part4-Secure_the_Client_app
-			https://codewithjulian.com/
+
+		https://www.youtube.com/watch?v=rNqgxAqGZJ8&list=PL1EYnCfHLswwOz77bgfFbFqRnY3bXYHp3&index=2
+  
+		https://github.com/iulianoana/CoffeeShopper-IS4/tree/Part4-Secure_the_Client_app
+  
+		https://codewithjulian.com/
 
 
 1) To create a new database before first use:
